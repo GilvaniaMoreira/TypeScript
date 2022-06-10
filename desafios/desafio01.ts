@@ -7,10 +7,11 @@ employee.name = "John";
 
 
 // A way to solve
-const funcionario = {
+const employee1 = {
     codigo: 10,
     nome: "Jhon"
 }
+
 
 // Other
 interface employee {
@@ -18,14 +19,14 @@ interface employee {
     name: string
 }
 
-let employee1: employee = {
+let employee2: employee = {
     cod: 200,
     name: "Jhon"
 }
 
 
 // Other
-const funcionario2: {codigo: number, nome: string} = {
+const employee3: {codigo: number, nome: string} = {
     codigo: 200,
     nome: "Jhon"
 }
