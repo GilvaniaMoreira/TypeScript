@@ -5,6 +5,7 @@ employee.code = 10;
 employee.name = "John";
 */
 
+
 // A way to solve
 const funcionario = {
     codigo: 10,
